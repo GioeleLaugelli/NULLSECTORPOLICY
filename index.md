@@ -4,6 +4,11 @@
   richiederà di nuovo. Se riattivi il Negozio (acquisti in-app), aggiorna la sezione 5 / section 5.
 -->
 
+---
+layout: default
+title: Informativa sulla privacy — NULL//SECTOR
+---
+
 # Informativa sulla privacy — NULL//SECTOR
 
 **Data di entrata in vigore:** 20 ottobre 2026
